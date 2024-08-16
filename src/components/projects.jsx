@@ -10,7 +10,7 @@ export function Project() {
       <div className="bg-[#0d2438] text-white">
         <div className="grid grid-cols-3 gap-5 justify-items-center">
           <Projects
-            image={"../public/project1.png"}
+            image={"https://unsplash.com/photos/a-view-of-a-mountain-range-with-wildflowers-in-the-foreground-D2L05AMs0f8"}
             title={"Blogging Platform"}
             description={"Web Application"}
             link={"#"}
